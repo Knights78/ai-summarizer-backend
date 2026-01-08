@@ -1,0 +1,21 @@
+# ===== Python =====
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Environment variables =====
+.env
+
+# ===== Node / React =====
+frontend/node_modules/
+frontend/dist/
+frontend
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
